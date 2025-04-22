@@ -10,8 +10,8 @@ z = 12
 #result = abs(y)
 #result = pow(y, y)
 #result = max(x, y, z)
-#result = min(x, y, z)
-#print(result)
+result = min(x, y, z)
+print(result)
 
 print(math.sqrt(z))
 
